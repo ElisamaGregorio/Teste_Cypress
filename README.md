@@ -1,15 +1,19 @@
-## Teste Automatizado - CYPRESS 
+## Projeto de Testes Automatizados - CYPRESS 🚀
 
 ### - Sobre:
-Escopo: Automação com Cypress do site https://wcaquino.me/cypress/componentes.html, utilizado como projeto final do Bootcamp New Thinkers - Trilha Quality Assurance (QA)
+Escopo: Automação de testes utilizando a ferramenta Cypress, projeto final utilizado no Bootcamp New Thinkers - Trilha Quality Assurance (QA).
+
+### - Site Testado:
+ - https://wcaquino.me/cypress/componentes.html
 
 ### - Instruções para execução do projeto:
-- Clonar o repositório
-- Para execução do teste - npm run cypress:run
+- Clonar esse repositório
+- Para execução do teste: > npm run cypress:run
 
 
 ### - Tecnologia utilizada:
 Cypress - "^9.2.1 
 
 
-#### Foi um projeto com bastante desafios e aprendizados.
+
+#### Foi um projeto com bastante desafios e aprendizados 🔥.
