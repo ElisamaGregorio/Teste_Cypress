@@ -7,7 +7,13 @@ describe("CENÁRIO 1", () => {
         cy.title().should('be.equal', 'Campo de Treinamento')
     })
     describe("VALIDAÇÃO", () => {
-        it("visitando a página", () => {
+        it("assertividade", () => {
+            const x = 1;
+            const y = 2;
+
+            expect(x).equal(1)
+            expect(x).not.be.equal(2)
+            
         })
     })
     describe("CAMPOS DE TEXTO", () => {
@@ -62,4 +68,3 @@ describe("CENÁRIO 1", () => {
         })
     })
 })
-
