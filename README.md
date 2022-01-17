@@ -8,7 +8,8 @@ Escopo: Automação de testes utilizando a ferramenta Cypress, projeto final uti
 
 ### - Instruções para execução do projeto:
 - Clonar esse repositório
-- Para execução do teste: > npm run cypress:run
+- npm install cypress --dev
+- npm run cypress:run
 
 
 ### - Tecnologia utilizada:
