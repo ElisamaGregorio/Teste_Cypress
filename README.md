@@ -12,7 +12,7 @@ Escopo: Automação de testes utilizando a ferramenta Cypress, projeto final uti
 
 
 ### - Tecnologia utilizada:
-Cypress - "^9.2.1 
+- Cypress - "^9.2.1 
 
 
 
